@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "501680814968",
+    "project_id": "demoapp-8d939",
+    "storage_bucket": "demoapp-8d939.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501680814968:android:1766ba224ecb51913d668d",
+        "android_client_info": {
+          "package_name": "com.global.technolabs.demoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501680814968-ejoe9u6rb7bk2qlka8bojrjimgulckdt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.global.technolabs.demoapp",
+            "certificate_hash": "c754e3daf33f43ab80e22c7396c424108586d952"
+          }
+        },
+        {
+          "client_id": "501680814968-iibj6um8mrobs2jqq826n5fcdi1tli48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxkVzpdyuuJk0_f1hvFBHpQ2afMah859A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501680814968-iibj6um8mrobs2jqq826n5fcdi1tli48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
